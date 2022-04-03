@@ -1,0 +1,7 @@
+name:admin	last_paragraph-lastscore:2#18.32	paragraph-bestscore:2**18.32
+name:Reza	last_paragraph-lastscore:1#0.18	paragraph-bestscore:1**0.18
+name:Amir	last_paragraph-lastscore:3#0.54	paragraph-bestscore:3**0.54
+name:Hossein	last_paragraph-lastscore:2#0.62	paragraph-bestscore:2**0.62
+name:RezaKhazaei	last_paragraph-lastscore:3#0.49	paragraph-bestscore:3**0.49
+name:ssss	last_paragraph-lastscore:1#2.24	paragraph-bestscore:1**2.24
+name:reza	last_paragraph-lastscore:2#2.29	paragraph-bestscore:2**2.29
